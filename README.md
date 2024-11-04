@@ -1,2 +1,47 @@
-# Oasis-task1
-Making a landing page
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GYM_LANDING_PAGE</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <h1>G<span>YM</span></h1>
+            </div>
+
+            <div class="menu">
+                <a href="#">HOME</a>
+                <a href="#">SERVICES</a>
+                <a href="#">FITNESS</a>
+                <a href="#">CONTACT</a>
+            </div>
+
+            <div class="icon">
+                <a href="#"><i class="fa fa-youtube"></i></a>
+                <a href="#"><i class="fa fa-facebook"></i></a>
+                <a href="#"><i class="fa fa-instagram"></i></a>
+                
+            </div>
+        </nav>
+        <div class="content">
+            <div class="head">
+                <img src="GYM 3.jpg" alt="">
+            </div>
+            <div class="head2">
+                <h2>YOU CAN DO IT</h2>
+                <h1>Gym Trainer</h1>  
+                <p>Hi, guys welcome to our website. You have got our guide
+                     on this site from us if you want . We can help you to make
+                      fit and we can also provide you best diet plans.</p>     
+                <button class="btn">join us</button>
+          
+            </div>
+        </div>
+    </header>
+</body>
+</html>
